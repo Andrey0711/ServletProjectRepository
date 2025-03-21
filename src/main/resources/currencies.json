@@ -1,0 +1,1462 @@
+{
+  "currencyList":[
+    {
+      "fullName": "United Arab Emirates Dirham",
+      "name": "dirham",
+      "code": "AED",
+      "sign": "د.إ",
+      "entity": "&#1583;.&#1573;",
+      "discern": null,
+      "ltr": false
+    },
+    {
+      "fullName": "Afghan Afghani",
+      "name": "afghani",
+      "code": "AFN",
+      "sign": "؋",
+      "entity": "&#x60B;",
+      "discern": null,
+      "ltr": false
+    },
+    {
+      "fullName": "Lek",
+      "name": "lek",
+      "code": "ALL",
+      "sign": "L",
+      "entity": "&#x4C;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Armenian Dram",
+      "name": "dram",
+      "code": "AMD",
+      "sign": "֏",
+      "entity": "&#x58F;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Netherlands Antillean Guilder",
+      "name": "guilder",
+      "code": "ANG",
+      "sign": "ƒ",
+      "entity": "&#x192;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Angolan Kwanza",
+      "name": "kwanza",
+      "code": "AOA",
+      "sign": "Kz",
+      "entity": "&#x4B;&#x7A;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Argentine Peso",
+      "name": "peso",
+      "code": "ARS",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Australian Dollar",
+      "name": "dollar",
+      "code": "AUD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "AU$",
+      "ltr": true
+    },
+    {
+      "fullName": "Aruban Florin",
+      "name": "florin",
+      "code": "AWG",
+      "sign": "ƒ",
+      "entity": "&#x192;",
+      "discern": "Afl.",
+      "ltr": true
+    },
+    {
+      "fullName": "Azerbaijani Manat",
+      "name": "manat",
+      "code": "AZN",
+      "sign": "₼",
+      "entity": "&#x20BC;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Bosnia and Herzegovina Convertible Mark",
+      "name": "convertible mark",
+      "code": "BAM",
+      "sign": "КМ",
+      "entity": "&#x41A;&#x41C;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Barbadian Dollar",
+      "name": "dollar",
+      "code": "BBD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "Bds$",
+      "ltr": true
+    },
+    {
+      "fullName": "Bangladeshi Taka",
+      "name": "taka",
+      "code": "BDT",
+      "sign": "৳",
+      "entity": "&#x9F3;",
+      "discern": "Tk.",
+      "ltr": true
+    },
+    {
+      "fullName": "Bulgarian Lev",
+      "name": "lev",
+      "code": "BGN",
+      "sign": "лв.",
+      "entity": "&#x43B;&#x432;&#x2E;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Bahraini Dinar",
+      "name": "dinar",
+      "code": "BHD",
+      "sign": ".د.ب",
+      "entity": "&#x2E;&#x62F;&#x2E;&#x628;",
+      "discern": "BD",
+      "ltr": true
+    },
+    {
+      "fullName": "Burundian Franc",
+      "name": "franc",
+      "code": "BIF",
+      "sign": "FBu",
+      "entity": "&#x46;&#x42;&#x75;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Bermudian Dollar",
+      "name": "dollar",
+      "code": "BMD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "BD$",
+      "ltr": true
+    },
+    {
+      "fullName": "Brunei Dollar",
+      "name": "dollar",
+      "code": "BND",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "B$",
+      "ltr": true
+    },
+    {
+      "fullName": "Bolivian Boliviano",
+      "name": "boliviano",
+      "code": "BOB",
+      "sign": "Bs",
+      "entity": "&#x42;&#x73;",
+      "discern": "B$",
+      "ltr": true
+    },
+    {
+      "fullName": "Mvdol",
+      "name": "mvdol",
+      "code": "BOV",
+      "sign": "-",
+      "entity": "&#x2D;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Brazilian Real",
+      "name": "real",
+      "code": "BRL",
+      "sign": "R$",
+      "entity": "&#x52;&#x24;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Bahamian Dollar",
+      "name": "dollar",
+      "code": "BSD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "B$",
+      "ltr": true
+    },
+    {
+      "fullName": "Ngultrum",
+      "name": "ngultrum",
+      "code": "BTN",
+      "sign": "Nu.",
+      "entity": "&#x4E;&#x75;&#x2E;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Pula",
+      "name": "pula",
+      "code": "BWP",
+      "sign": "P",
+      "entity": "&#x50;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Belarusian Ruble",
+      "name": "ruble",
+      "code": "BYN",
+      "sign": "Br",
+      "entity": "&#x42;&#x72;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Belize Dollar",
+      "name": "dollar",
+      "code": "BZD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "BZ$",
+      "ltr": true
+    },
+    {
+      "fullName": "Canadian Dollar",
+      "name": "dollar",
+      "code": "CAD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "CA$",
+      "ltr": true
+    },
+    {
+      "fullName": "Congolese Franc",
+      "name": "franc",
+      "code": "CDF",
+      "sign": "FC",
+      "entity": "&#x46;&#x43;",
+      "discern": "CF",
+      "ltr": true
+    },
+    {
+      "fullName": "Swiss Franc",
+      "name": "franc",
+      "code": "CHF",
+      "sign": "Fr",
+      "entity": "&#x46;&#x72;",
+      "discern": "SFr",
+      "ltr": true
+    },
+    {
+      "fullName": "Unidad de Fomento",
+      "name": "Unidad de Fomento",
+      "code": "CLF",
+      "sign": "UF",
+      "entity": "&#x55;&#x46;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Chilean Peso",
+      "name": "peso",
+      "code": "CLP",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "CLP$",
+      "ltr": true
+    },
+    {
+      "fullName": "Yuan Renminbi",
+      "name": "yuan",
+      "code": "CNY",
+      "sign": "¥",
+      "entity": "&#xA5;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Colombian Peso",
+      "name": "peso",
+      "code": "COP",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "COP$",
+      "ltr": true
+    },
+    {
+      "fullName": "Costa Rican Colon",
+      "name": "colon",
+      "code": "CRC",
+      "sign": "₡",
+      "entity": "&#x20A1;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Cuban Peso",
+      "name": "peso",
+      "code": "CUP",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "$MN",
+      "ltr": true
+    },
+    {
+      "fullName": "Cabo Verde Escudo",
+      "name": "escudo",
+      "code": "CVE",
+      "sign": "Esc",
+      "entity": "&#x45;&#x73;&#x63;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Czech Koruna",
+      "name": "koruna",
+      "code": "CZK",
+      "sign": "Kč",
+      "entity": "&#x4B;&#x10D;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Djibouti Franc",
+      "name": "franc",
+      "code": "DJF",
+      "sign": "Fdj",
+      "entity": "&#x46;&#x64;&#x6A;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Danish Krone",
+      "name": "krone",
+      "code": "DKK",
+      "sign": "kr",
+      "entity": "&#x6B;&#x72;",
+      "discern": "DKK",
+      "ltr": true
+    },
+    {
+      "fullName": "Dominican Peso",
+      "name": "peso",
+      "code": "DOP",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "RD$",
+      "ltr": true
+    },
+    {
+      "fullName": "Algerian Dinar",
+      "name": "dinar",
+      "code": "DZD",
+      "sign": "دج",
+      "entity": "&#x62F;&#x62C;",
+      "discern": "DA",
+      "ltr": false
+    },
+    {
+      "fullName": "Egyptian Pound",
+      "name": "pound",
+      "code": "EGP",
+      "sign": "£",
+      "entity": "&#xA3;",
+      "discern": "£E",
+      "ltr": true
+    },
+    {
+      "fullName": "Ethiopian Birr",
+      "name": "birr",
+      "code": "ETB",
+      "sign": "ብር",
+      "entity": "&#x1265;&#x122D;",
+      "discern": "Br",
+      "ltr": true
+    },
+    {
+      "fullName": "Nakfa",
+      "name": "nakfa",
+      "code": "ERN",
+      "sign": "Nkf",
+      "entity": "&#x4E;&#x6B;&#x66;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Euro",
+      "name": "euro",
+      "code": "EUR",
+      "sign": "€",
+      "entity": "&#x20AC;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Fiji Dollar",
+      "name": "dollar",
+      "code": "FJD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "FJ$",
+      "ltr": true
+    },
+    {
+      "fullName": "Falkland Islands Pound",
+      "name": "pound",
+      "code": "FKP",
+      "sign": "£",
+      "entity": "&#xA3;",
+      "discern": "FK£",
+      "ltr": true
+    },
+    {
+      "fullName": "Pound sterling",
+      "name": "pound",
+      "code": "GBP",
+      "sign": "£",
+      "entity": "&#xA3;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Lari",
+      "name": "lari",
+      "code": "GEL",
+      "sign": "₾",
+      "entity": "&#x20BE;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Ghana Cedi",
+      "name": "cedi",
+      "code": "GHS",
+      "sign": "₵",
+      "entity": "&#x20B5;",
+      "discern": "GH¢",
+      "ltr": true
+    },
+    {
+      "fullName": "Gibraltar Pound",
+      "name": "pound",
+      "code": "GIP",
+      "sign": "£",
+      "entity": "&#xA3;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Dalasi",
+      "name": "dalasi",
+      "code": "GMD",
+      "sign": "D",
+      "entity": "&#x44;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Guinean Franc",
+      "name": "franc",
+      "code": "GNF",
+      "sign": "FG",
+      "entity": "&#x46;&#x47;",
+      "discern": "GFr",
+      "ltr": true
+    },
+    {
+      "fullName": "Quetzal",
+      "name": "quetzal",
+      "code": "GTQ",
+      "sign": "Q",
+      "entity": "&#x51;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Guyana Dollar",
+      "name": "dollar",
+      "code": "GYD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "GY$",
+      "ltr": true
+    },
+    {
+      "fullName": "Hong Kong Dollar",
+      "name": "dollar",
+      "code": "HKD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "HK$",
+      "ltr": true
+    },
+    {
+      "fullName": "Lempira",
+      "name": "lempira",
+      "code": "HNL",
+      "sign": "L",
+      "entity": "&#x4C;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Gourde",
+      "name": "gourde",
+      "code": "HTG",
+      "sign": "G",
+      "entity": "&#x47;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Forint",
+      "name": "forint",
+      "code": "HUF",
+      "sign": "Ft",
+      "entity": "&#x46;&#x74;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Rupiah",
+      "name": "rupiah",
+      "code": "IDR",
+      "sign": "Rp",
+      "entity": "&#x52;&#x70;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "New Israeli Sheqel",
+      "name": "sheqel",
+      "code": "ILS",
+      "sign": "₪",
+      "entity": "&#x20AA;",
+      "discern": "NIS",
+      "ltr": true
+    },
+    {
+      "fullName": "Indian Rupee",
+      "name": "rupee",
+      "code": "INR",
+      "sign": "₹",
+      "entity": "&#x20B9;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Iraqi Dinar",
+      "name": "dinar",
+      "code": "IQD",
+      "sign": "د.ع",
+      "entity": "&#x62F;&#x2E;&#x639;",
+      "discern": null,
+      "ltr": false
+    },
+    {
+      "fullName": "Iranian Rial",
+      "name": "rial",
+      "code": "IRR",
+      "sign": "﷼",
+      "entity": "&#xFDFC;",
+      "discern": null,
+      "ltr": false
+    },
+    {
+      "fullName": "Iceland Krona",
+      "name": "krona",
+      "code": "ISK",
+      "sign": "kr",
+      "entity": "&#x6B;&#x72;",
+      "discern": "ISK",
+      "ltr": false
+    },
+    {
+      "fullName": "Jersey Pound",
+      "name": "pound",
+      "code": "JEP",
+      "sign": "£",
+      "entity": "&#xA3;",
+      "discern": "JEP",
+      "ltr": true
+    },
+    {
+      "fullName": "Jamaican Dollar",
+      "name": "dollar",
+      "code": "JMD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "J$",
+      "ltr": true
+    },
+    {
+      "fullName": "Jordanian Dinar",
+      "name": "dinar",
+      "code": "JOD",
+      "sign": "د.أ",
+      "entity": "&#x62F;&#x2E;&#x623;",
+      "discern": null,
+      "ltr": false
+    },
+    {
+      "fullName": "Yen",
+      "name": "yen",
+      "code": "JPY",
+      "sign": "¥",
+      "entity": "&#xA5;",
+      "discern": "JP¥",
+      "ltr": true
+    },
+    {
+      "fullName": "Kenyan Shilling",
+      "name": "shilling",
+      "code": "KES",
+      "sign": "KSh",
+      "entity": "&#x4B;&#x53;&#x68;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Som",
+      "name": "som",
+      "code": "KGS",
+      "sign": "сом",
+      "entity": "&#x441;&#x43E;&#x43C;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Riel",
+      "name": "riel",
+      "code": "KHR",
+      "sign": "៛",
+      "entity": "&#x17DB;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Comorian Franc",
+      "name": "franc",
+      "code": "KMF",
+      "sign": "CF",
+      "entity": "&#x43;&#x46;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "North Korean Won",
+      "name": "won",
+      "code": "KPW",
+      "sign": "₩",
+      "entity": "&#x20A9;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Won",
+      "name": "won",
+      "code": "KRW",
+      "sign": "₩",
+      "entity": "&#x20A9;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Kuwaiti Dinar",
+      "name": "dinar",
+      "code": "KWD",
+      "sign": "د.ك",
+      "entity": "&#x62F;&#x2E;&#x643;",
+      "discern": null,
+      "ltr": false
+    },
+    {
+      "fullName": "Cayman Islands Dollar",
+      "name": "dollar",
+      "code": "KYD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "CI$",
+      "ltr": true
+    },
+    {
+      "fullName": "Tenge",
+      "name": "tenge",
+      "code": "KZT",
+      "sign": "₸",
+      "entity": "&#x20B8;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Lao Kip",
+      "name": "kip",
+      "code": "LAK",
+      "sign": "₭",
+      "entity": "&#x20AD;",
+      "discern": "₭N",
+      "ltr": true
+    },
+    {
+      "fullName": "Lebanese Pound",
+      "name": "pound",
+      "code": "LBP",
+      "sign": "ل.ل.",
+      "entity": "&#x644;&#x2E;&#x644;&#x2E;",
+      "discern": "LL",
+      "ltr": false
+    },
+    {
+      "fullName": "Sri Lanka Rupee",
+      "name": "rupee",
+      "code": "LKR",
+      "sign": "₨",
+      "entity": "&#x20A8;",
+      "discern": "LKR",
+      "ltr": true
+    },
+    {
+      "fullName": "Liberian Dollar",
+      "name": "dollar",
+      "code": "LRD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "L$",
+      "ltr": true
+    },
+    {
+      "fullName": "Loti",
+      "name": "loti",
+      "code": "LSL",
+      "sign": "L",
+      "entity": "&#x4C;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Libyan Dinar",
+      "name": "dinar",
+      "code": "LYD",
+      "sign": ".د",
+      "entity": "&#x2E;&#x62F;",
+      "discern": "LD",
+      "ltr": false
+    },
+    {
+      "fullName": "Moroccan Dirham",
+      "name": "dirham",
+      "code": "MAD",
+      "sign": "د.م.",
+      "entity": "&#x62F;&#x2E;&#x645;&#x2E;",
+      "discern": "DH",
+      "ltr": false
+    },
+    {
+      "fullName": "Moldovan Leu",
+      "name": "leu",
+      "code": "MDL",
+      "sign": "L",
+      "entity": "&#x4C;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Malagasy Ariary",
+      "name": "ariary",
+      "code": "MGA",
+      "sign": "Ar",
+      "entity": "&#x41;&#x72;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Denar",
+      "name": "denar",
+      "code": "MKD",
+      "sign": "ден",
+      "entity": "&#x434;&#x435;&#x43D;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Kyat",
+      "name": "kyat",
+      "code": "MMK",
+      "sign": "K",
+      "entity": "&#x4B;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Tugrik",
+      "name": "tugrik",
+      "code": "MNT",
+      "sign": "₮",
+      "entity": "&#x20AE;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Pataca",
+      "name": "pataca",
+      "code": "MOP",
+      "sign": "MOP$",
+      "entity": "&#x4D;&#x4F;&#x50;&#x24;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Ouguiya",
+      "name": "ouguiya",
+      "code": "MRU",
+      "sign": "UM",
+      "entity": "&#x55;&#x4D;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Mauritius Rupee",
+      "name": "rupee",
+      "code": "MUR",
+      "sign": "₨",
+      "entity": "&#x20A8;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Rufiyaa",
+      "name": "rufiyaa",
+      "code": "MVR",
+      "sign": "Rf.",
+      "entity": "&#x52;&#x66;&#x2E;",
+      "discern": "MRf",
+      "ltr": true
+    },
+    {
+      "fullName": "Malawi Kwacha",
+      "name": "kwacha",
+      "code": "MWK",
+      "sign": "K",
+      "entity": "&#x4B;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Mexican Peso",
+      "name": "peso",
+      "code": "MXN",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "MX$",
+      "ltr": true
+    },
+    {
+      "fullName": "Mexican Unidad de Inversion (UDI)",
+      "name": "udi",
+      "code": "MXV",
+      "sign": "-",
+      "entity": "&#x2D;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Malaysian Ringgit",
+      "name": "ringgit",
+      "code": "MYR",
+      "sign": "RM",
+      "entity": "&#x52;&#x4D;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Mozambique Metical",
+      "name": "metical",
+      "code": "MZN",
+      "sign": "MT",
+      "entity": "&#x4D;&#x54;",
+      "discern": "MTn",
+      "ltr": true
+    },
+    {
+      "fullName": "Namibia Dollar",
+      "name": "dollar",
+      "code": "NAD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "N$",
+      "ltr": true
+    },
+    {
+      "fullName": "Naira",
+      "name": "naira",
+      "code": "NGN",
+      "sign": "₦",
+      "entity": "&#x20A6;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Cordoba Oro",
+      "name": "cordoba",
+      "code": "NIO",
+      "sign": "C$",
+      "entity": "&#x43;&#x24;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Norwegian Krone",
+      "name": "krone",
+      "code": "NOK",
+      "sign": "kr",
+      "entity": "&#x6B;&#x72;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Nepalese Rupee",
+      "name": "rupee",
+      "code": "NPR",
+      "sign": "रु",
+      "entity": "&#x930;&#x941;",
+      "discern": "₨",
+      "ltr": true
+    },
+    {
+      "fullName": "New Zealand Dollar",
+      "name": "dollar",
+      "code": "NZD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "NZ$",
+      "ltr": true
+    },
+    {
+      "fullName": "Rial Omani",
+      "name": "rial",
+      "code": "OMR",
+      "sign": "ر.ع.",
+      "entity": "&#x631;&#x2E;&#x639;&#x2E;",
+      "discern": "R.O.",
+      "ltr": false
+    },
+    {
+      "fullName": "Balboa",
+      "name": "balboa",
+      "code": "PAB",
+      "sign": "B/.",
+      "entity": "&#x42;&#x2F;&#x2E;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Sol",
+      "name": "sol",
+      "code": "PEN",
+      "sign": "S/",
+      "entity": "&#x53;&#x2F;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Kina",
+      "name": "kina",
+      "code": "PKG",
+      "sign": "K",
+      "entity": "&#x4B;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Philippine Peso",
+      "name": "peso",
+      "code": "PHP",
+      "sign": "₱",
+      "entity": "&#x20B1;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Pakistan Rupee",
+      "name": "rupee",
+      "code": "PKR",
+      "sign": "₨",
+      "entity": "&#x20A8;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Zloty",
+      "name": "zloty",
+      "code": "PLN",
+      "sign": "zł",
+      "entity": "&#x7A;&#x142;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Guarani",
+      "name": "guarani",
+      "code": "PYG",
+      "sign": "₲",
+      "entity": "&#x20B2;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Qatari Rial",
+      "name": "riyal",
+      "code": "QAR",
+      "sign": "ر.ق",
+      "entity": "&#x631;&#x2E;&#x642;&#xA;",
+      "discern": "QR",
+      "ltr": false
+    },
+    {
+      "fullName": "Romanian Leu",
+      "name": "leu",
+      "code": "RON",
+      "sign": "L",
+      "entity": "&#x4C;",
+      "discern": null,
+      "ltr": false
+    },
+    {
+      "fullName": "Serbian Dinar",
+      "name": "dinar",
+      "code": "RSD",
+      "sign": "дин",
+      "entity": "&#x434;&#x438;&#x43D;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Russian Ruble",
+      "name": "ruble",
+      "code": "RUB",
+      "sign": "₽",
+      "entity": "&#x20BD;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Rwanda Franc",
+      "name": "franc",
+      "code": "RWF",
+      "sign": "FRw",
+      "entity": "&#x46;&#x52;&#x77;",
+      "discern": "R₣",
+      "ltr": true
+    },
+    {
+      "fullName": "Saudi Riyal",
+      "name": "riyal",
+      "code": "SAR",
+      "sign": "ر.س",
+      "entity": "&#x631;&#x2E;&#x633;&#xA;",
+      "discern": "SAR",
+      "ltr": false
+    },
+    {
+      "fullName": "Solomon Islands Dollar",
+      "name": "dollar",
+      "code": "SBD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "SI$",
+      "ltr": true
+    },
+    {
+      "fullName": "Seychelles Rupee",
+      "name": "rupee",
+      "code": "SCR",
+      "sign": "₨",
+      "entity": "&#x20A8;",
+      "discern": "SRe",
+      "ltr": true
+    },
+    {
+      "fullName": "Sudanese Pound",
+      "name": "pound",
+      "code": "SDG",
+      "sign": "£",
+      "entity": "&#xA3;",
+      "discern": "£SD",
+      "ltr": true
+    },
+    {
+      "fullName": "Swedish Krona",
+      "name": "krona",
+      "code": "SEK",
+      "sign": "kr",
+      "entity": "&#x6B;&#x72;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Singapore Dollar",
+      "name": "dollar",
+      "code": "SGD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "S$",
+      "ltr": true
+    },
+    {
+      "fullName": "Saint Helena Pound",
+      "name": "pound",
+      "code": "SHP",
+      "sign": "£",
+      "entity": "&#xA3;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Leone",
+      "name": "leone",
+      "code": "SLE",
+      "sign": "Le",
+      "entity": "&#x4C;&#x65;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Leone",
+      "name": "leone",
+      "code": "SLL",
+      "sign": "Le",
+      "entity": "&#x4C;&#x65;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Somali Shilling",
+      "name": "shilling",
+      "code": "SOS",
+      "sign": "Sh.So.",
+      "entity": "&#x53;&#x68;&#x2E;&#x53;&#x6F;&#x2E;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Surinam Dollar",
+      "name": "dollar",
+      "code": "SRD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "Sr$",
+      "ltr": true
+    },
+    {
+      "fullName": "Dobra",
+      "name": "dobra",
+      "code": "STN",
+      "sign": "Db",
+      "entity": "&#x44;&#x62;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "South Sudanese Pound",
+      "name": "pound",
+      "code": "SSP",
+      "sign": "£",
+      "entity": "&#xA3;",
+      "discern": "SS£",
+      "ltr": true
+    },
+    {
+      "fullName": "Syrian Pound",
+      "name": "pound",
+      "code": "SYP",
+      "sign": "£",
+      "entity": "&#xA3;",
+      "discern": "£S",
+      "ltr": true
+    },
+    {
+      "fullName": "Lilangeni",
+      "name": "lilangeni",
+      "code": "SZL",
+      "sign": "L",
+      "entity": "&#x4C;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Baht",
+      "name": "baht",
+      "code": "THB",
+      "sign": "฿",
+      "entity": "&#xE3F;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Somoni",
+      "name": "somoni",
+      "code": "TJS",
+      "sign": "SM",
+      "entity": "&#x53;&#x4D;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Turkmenistan New Manat",
+      "name": "manat",
+      "code": "TMT",
+      "sign": "m",
+      "entity": "&#x6D;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Tunisian Dinar",
+      "name": "dinar",
+      "code": "TND",
+      "sign": "د.ت",
+      "entity": "&#x62F;&#x2E;&#x62A;",
+      "discern": "DT",
+      "ltr": false
+    },
+    {
+      "fullName": "Pa’anga",
+      "name": "pa’anga",
+      "code": "TOP",
+      "sign": "T$",
+      "entity": "&#x54;&#x24;",
+      "discern": "PT",
+      "ltr": true
+    },
+    {
+      "fullName": "Turkish Lira",
+      "name": "lira",
+      "code": "TRY",
+      "sign": "₺",
+      "entity": "&#x20BA;",
+      "discern": null,
+      "ltr": false
+    },
+    {
+      "fullName": "Trinidad and Tobago Dollar",
+      "name": "dollar",
+      "code": "TTD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "TT$",
+      "ltr": true
+    },
+    {
+      "fullName": "New Taiwan Dollar",
+      "name": "dollar",
+      "code": "TWD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "NT$",
+      "ltr": true
+    },
+    {
+      "fullName": "Tanzanian Shilling",
+      "name": "shiling",
+      "code": "TZS",
+      "sign": "TSh",
+      "entity": "&#x54;&#x53;&#x68;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Hryvnia",
+      "name": "hryvnia",
+      "code": "UAH",
+      "sign": "₴",
+      "entity": "&#x20B4;",
+      "discern": "грн",
+      "ltr": true
+    },
+    {
+      "fullName": "Uganda Shilling",
+      "name": "shilling",
+      "code": "UGX",
+      "sign": "USh",
+      "entity": "&#x55;&#x53;&#x68;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "United States Dollar",
+      "name": "dollar",
+      "code": "USD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Peso Uruguayo",
+      "name": "peso",
+      "code": "UYU",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "$U",
+      "ltr": true
+    },
+    {
+      "fullName": "Uzbekistan Sum",
+      "name": "sum",
+      "code": "UZS",
+      "sign": "сум",
+      "entity": "&#x441;&#x443;&#x43C;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Bolívar Soberano",
+      "name": "bolívar",
+      "code": "VED",
+      "sign": "Bs.",
+      "entity": "&#x42;&#x73;&#x2E;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Bolívar Soberano",
+      "name": "bolívar",
+      "code": "VES",
+      "sign": "Bs.S",
+      "entity": "&#x42;&#x73;&#x2E;&#x53;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Dong",
+      "name": "dong",
+      "code": "VND",
+      "sign": "₫",
+      "entity": "&#x20AB;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Vatu",
+      "name": "vatu",
+      "code": "VUV",
+      "sign": "VT",
+      "entity": "&#x56;&#x54;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Tala",
+      "name": "tala",
+      "code": "WST",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "WS$",
+      "ltr": true
+    },
+    {
+      "fullName": "CFA Franc BEAC",
+      "name": "franc",
+      "code": "XAF",
+      "sign": "FCFA",
+      "entity": "&#x46;&#x43;&#x46;&#x41;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "East Caribbean Dollar",
+      "name": "dollar",
+      "code": "XCD",
+      "sign": "$",
+      "entity": "&#x24;",
+      "discern": "EC$",
+      "ltr": true
+    },
+    {
+      "fullName": "Caribbean guilder",
+      "name": "guilder",
+      "code": "XCG",
+      "sign": "Cg",
+      "entity": "&#x43;&#x67;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "SDR (Special Drawing Right)",
+      "name": "SDR",
+      "code": "XDR",
+      "sign": "SDR",
+      "entity": "&#x53;&#x44;&#x52;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "CFA Franc BCEAO",
+      "name": "franc",
+      "code": "XOF",
+      "sign": "CFA",
+      "entity": "&#x43;&#x46;&#x41;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "CFP Franc",
+      "name": "franc",
+      "code": "XPF",
+      "sign": "₣",
+      "entity": "&#x20A3;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Yemeni Rial",
+      "name": "rial",
+      "code": "YER",
+      "sign": "ر.ي",
+      "entity": "&#x631;&#x2E;&#x64A;",
+      "discern": null,
+      "ltr": false
+    },
+    {
+      "fullName": "Rand",
+      "name": "rand",
+      "code": "ZAR",
+      "sign": "R",
+      "entity": "&#x52;",
+      "discern": null,
+      "ltr": true
+    },
+    {
+      "fullName": "Zambian Kwacha",
+      "name": "kwacha",
+      "code": "ZMW",
+      "sign": "K",
+      "entity": "&#x4B;",
+      "discern": "ZK",
+      "ltr": true
+    },
+    {
+      "fullName": "Zimbabwe Gold",
+      "name": "zig",
+      "code": "ZWG",
+      "sign": "ZiG",
+      "entity": "&#x5A;&#x69;&#x47;",
+      "discern": null,
+      "ltr": true
+    }
+  ]
+}
